@@ -1,1 +1,1 @@
-# Voice-Controlled-Chess-and-Checkers
+# VoiceControlledChessAndCheckers
